@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazingPong", "AmazingPong\AmazingPong\AmazingPong.csproj", "{C8D42FAC-D514-495B-8309-B503D2CD9E73}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AmazingPongContent", "AmazingPong\AmazingPongContent\AmazingPongContent.contentproj", "{93DBD8E2-7F14-462C-8826-8BA62C3803DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D42FAC-D514-495B-8309-B503D2CD9E73}.Debug|x86.ActiveCfg = Debug|x86
+		{C8D42FAC-D514-495B-8309-B503D2CD9E73}.Debug|x86.Build.0 = Debug|x86
+		{C8D42FAC-D514-495B-8309-B503D2CD9E73}.Release|x86.ActiveCfg = Release|x86
+		{C8D42FAC-D514-495B-8309-B503D2CD9E73}.Release|x86.Build.0 = Release|x86
+		{93DBD8E2-7F14-462C-8826-8BA62C3803DD}.Debug|x86.ActiveCfg = Debug|x86
+		{93DBD8E2-7F14-462C-8826-8BA62C3803DD}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
